@@ -1,4 +1,4 @@
-### HI! 👋
+### Hello World! 👋
 
 I am a computer science student currently studing on [Czech Technical University](https://www.cvut.cz/en), Faculty of Nuclear Sciences and Physical Engineering.
 
