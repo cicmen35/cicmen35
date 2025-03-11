@@ -18,7 +18,7 @@ I am a software engineer and a computer science student at [Czech Technical Univ
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
 </div>
 
-### 📊 GitHub Stats  
+### 📊 My GitHub activity: 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=cicmen35&show_icons=true&theme=radical" alt="cicmen35 GitHub activity" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cicmen35&theme=default&show_icons=true&hide_border=true&layout=compact" alt="cicmen35 stats" style="display: inline-block;"/>
