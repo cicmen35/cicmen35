@@ -17,6 +17,11 @@ I am a software engineer and a computer science student at [Czech Technical Univ
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
 </div>
 
+### 📚 Currently learning: 
+<div align="center">
+  <a href="https://react.dev/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="react" width="40" height="40"/> </a>
+</div>
+
 ### 📊 My GitHub activity: 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=cicmen35&show_icons=true&theme=radical" alt="cicmen35 GitHub activity" />
