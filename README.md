@@ -27,6 +27,3 @@ I am a software engineer and a computer science student at [Czech Technical Univ
   <img src="https://github-readme-stats.vercel.app/api?username=cicmen35&show_icons=true&theme=radical" alt="cicmen35 GitHub activity" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cicmen35&theme=default&show_icons=true&hide_border=true&layout=compact" alt="cicmen35 stats" style="display: inline-block;"/>
 </div>
-![GitHub Snake Light](https://raw.githubusercontent.com/cicmen35/cicmen35/output/github-snake.svg#gh-light-mode-only)
-![GitHub Snake Dark](https://raw.githubusercontent.com/cicmen35/cicmen35/output/github-snake-dark.svg#gh-dark-mode-only)
-
