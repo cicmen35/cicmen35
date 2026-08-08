@@ -28,3 +28,13 @@ I am a software engineer and a computer science student at [Czech Technical Univ
 <p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cicmen35&theme=radical" alt="GitHub Profile Details" /> </p>
 
 <p align="center"> <img src="https://streak-stats.demolab.com?user=cicmen35&theme=radical&hide_border=true" alt="cicmen35 GitHub streak" /> </p>
+
+### 🐍 My Contributions
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cicmen35/cicmen35/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cicmen35/cicmen35/output/github-contribution-grid-snake.svg">
+    <img src="https://raw.githubusercontent.com/cicmen35/cicmen35/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake">
+  </picture>
+</p>
