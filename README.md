@@ -22,6 +22,7 @@ I am a software engineer and a computer science student at [Czech Technical Univ
 ### 📚 Currently learning: 
 <div align="center">
   <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="40" height="40"/> </a>
+  <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=rust" alt="rust" width="40" height="40"/> </a>
 </div>
 
 ### 📊 My GitHub activity: 
